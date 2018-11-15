@@ -1,2 +1,2 @@
 #Tensorflow_DNNClassifier
-Use Tensorflow DNNClassifier estimator to classify
+Use Tensorflow DNN_Classifier estimator to classify
